@@ -1,0 +1,6 @@
+uploaded_files/*
+!uploaded_files/.gitkeep
+!uploaded_files/.htaccess
+Thumbs.db
+desktop.ini
+.vscode/
