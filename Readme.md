@@ -40,7 +40,7 @@ Taller-Aspirantes/
 1. Clona el repositorio dentro de la carpeta `www` de WAMP:
    ```bash
    cd C:\wamp64\www
-   git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPOSITORIO.git Taller-Aspirantes
+   git clone https://github.com/Eloy-S/Taller_Aspirante.git Taller-Aspirantes
    ```
 2. Inicia WAMP y verifica que Apache esté en verde.
 3. Abre `http://localhost/Taller-Aspirantes/index.php` en el navegador.

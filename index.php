@@ -1,7 +1,7 @@
 <?php
 /**
  * index.php
- * ---------------------------------------------------------------------
+ * 
  * Página principal: formulario de registro de aspirantes.
  *
  * Requerimientos de la rúbrica que cubre este archivo:
@@ -12,7 +12,7 @@
  *
  * Este archivo NO procesa nada: solo muestra el formulario y envía los
  * datos a procesar.php.
- * ---------------------------------------------------------------------
+ *
  */
 
 // include: carga includes/header.php (abre <html>, <head>, <body> y pinta el <header>).
