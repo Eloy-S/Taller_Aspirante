@@ -11,7 +11,7 @@ $paginaActual = basename($_SERVER['PHP_SELF']);
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <!-- ================= METADATOS (guía: "Agregar los Metadatos") ================= -->
+    <!--  METADATOS (guía: "Agregar los Metadatos")  -->
 
     <!-- Codificación: evita problemas con tildes y la ñ -->
     <meta charset="UTF-8">

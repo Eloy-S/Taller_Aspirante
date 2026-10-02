@@ -40,9 +40,9 @@
              de buena práctica: evita que la página destino controle la tuya (window.opener).
              CAMBIA "TU-USUARIO" y el correo por tus datos reales. -->
         <div class="mb-2">
-            <a href="https://github.com/TU-USUARIO" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/Eloy-S" target="_blank" rel="noopener noreferrer"
                class="text-white text-decoration-none mx-2 small">GitHub</a> |
-            <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank" rel="noopener noreferrer"
+            <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"
                class="text-white text-decoration-none mx-2 small">LinkedIn</a> |
             <a href="mailto:correo@utp.ac.pa" class="text-white text-decoration-none mx-2 small">Contacto</a>
         </div>
