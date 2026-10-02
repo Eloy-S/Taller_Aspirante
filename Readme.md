@@ -55,11 +55,10 @@ Taller-Aspirantes/
 
 ## Capturas
 
-<!-- Agrega aquí capturas del formulario y del resultado, por ejemplo: -->
-<!-- ![Formulario](docs/formulario.png) -->
+
 
 ## Autor
 
-- **Nombre:** TU NOMBRE
+- **Nombre:** Eloy Samaniego
 - **Carrera:** Licenciatura en Ciberseguridad — Universidad Tecnológica de Panamá
 - **Curso:** Desarrollo Web — Laboratorio #3

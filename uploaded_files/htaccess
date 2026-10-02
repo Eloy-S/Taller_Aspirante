@@ -1,0 +1,21 @@
+# uploaded_files/.htaccess
+# ---------------------------------------------------------------
+# Bloquea TODO acceso por HTTP a esta carpeta (fotos de aspirantes).
+# PHP sigue pudiendo escribir aquí con move_uploaded_file(), porque
+# usa el sistema de archivos, no una petición HTTP.
+#
+# Requiere que Apache tenga "AllowOverride" activo para esta carpeta
+# (en WAMP suele estarlo por defecto). Si no, este archivo se ignora
+# en silencio: por eso hay que PROBARLO (ver instrucciones).
+# ---------------------------------------------------------------
+
+# Apache 2.4 (el que trae WAMP actual)
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+
+# Apache 2.2 (compatibilidad con versiones antiguas)
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
