@@ -54,7 +54,12 @@ Taller-Aspirantes/
 - Las fotos subidas están excluidas del repositorio mediante `.gitignore`.
 
 ## Capturas
+A continuación se muestra el funcionamiento del formulario y su validación en el servidor:
 
+| Formulario de Registro (index.php) | Procesamiento Exitoso (procesar.php) |
+| :---: | :---: |
+| ![Formulario de Registro](img/taller_formulario1.png) | ![Procesamiento Exitoso](img/taller_resultado2.png) |
+| *Interfaz principal con los campos requeridos y diseño Bootstrap 5.* | *Vista posterior al envío exitoso, mostrando los datos normalizados y la fotografía.* |
 
 
 ## Autor
